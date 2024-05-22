@@ -1,3 +1,10 @@
+#anim-div {
+    max-width: 1000px;
+    border-radius: 30px;
+    border: 6px solid rgba(255, 255, 255, 0.4);
+    overflow: hidden;
+    margin: 0 auto;
+}
 .dashboard-animation-wpr-in {
     max-width: 1200px;
     margin: 0 auto;
