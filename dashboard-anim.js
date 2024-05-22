@@ -311,9 +311,9 @@ jQuery(document).ready(function ($) {
             .to(screen2, { opacity: 0, })
 
 
-        ScrollTrigger({
+        ScrollTrigger.create({
             trigger: dshbrdAnimWpr,
-            start: "top 10%",
+            start: "top 90%",
             animation: dshBrdAnimTl,
         })
 
