@@ -11,7 +11,8 @@
     position: relative;
 }
 .dashboard-animation-wpr-in * {
-    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
 }
 
 .dashboard-animation-wpr-in img {
@@ -30,14 +31,19 @@
     left: 0;
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    -o-object-fit: cover;
+       object-fit: cover;
     z-index: -1;
 }
 
 .dashboard-animation-top-bar {
     position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    align-items: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
     padding: 2.5% 0 1.5%;
 }
 
@@ -47,10 +53,18 @@
 
 .dash-top-right {
     margin-left: auto;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex: 0 0 auto;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+            flex: 0 0 auto;
     width: 229px;
     width: 20.2%;
 }
@@ -111,8 +125,11 @@
 
 .screen1-form-wpr-in {
     position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
 }
 
 .name-fld-wpr {
@@ -152,8 +169,11 @@
 }
 
 .screen1-form-right-bar-cntnt-in {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
 }
 
 .starfld-btn-wpr {
@@ -180,8 +200,12 @@
 
 .dashboard-screen2-top-bar {
     position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    align-items: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
     padding: 2.5% 0 2.1%;
 }
 
@@ -190,9 +214,15 @@
 }
 
 .screen2-topbar-right {
-    flex: 0 0 auto;
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+            flex: 0 0 auto;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    justify-content: space-between;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
     margin-left: auto;
     width: 47%;
 }
@@ -211,14 +241,19 @@
 }
 
 .dashboard-screen2-card-row {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
     margin: 0 -0.6%;
 }
 
 .dashboard-screen2-card-col {
     width: 33.33%;
-    flex: 0 0 auto;
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+            flex: 0 0 auto;
     padding: 0 0.6%;
 }
 
@@ -273,12 +308,17 @@
 }
 
 .user-dtls-fld-row {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
 }
 
 .user-dtls-fld-col {
-    flex: 0 0 auto;
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+            flex: 0 0 auto;
     width: 33.33%;
     margin-bottom: 2.3%;
     padding: 0 0.6%;
@@ -301,8 +341,11 @@
 .platform-tag-list,
 .category-tag-list,
 .category-new-tag-list {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
     margin-bottom: -0.9%;
 }
 
