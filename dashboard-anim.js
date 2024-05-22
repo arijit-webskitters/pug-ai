@@ -6,39 +6,39 @@ jQuery(document).ready(function ($) {
             document.getElementById("anim-div").innerHTML = `
         <div class="dashboard-animation-wpr">
             <div class="dashboard-animation-wpr-in">
-                <img src="images/first-bg.svg" alt="" class="first-screen-bg">
+                <img src="https://arijit-webskitters.github.io/pug-ai/images/first-bg.svg" alt="" class="first-screen-bg">
                 <!-- SCREEN 1 -->
                 <div class="dashboard-animation-cover1">
                     <div class="dashboard-animation-top-bar">
                         <div class="dash-logo-wpr">
-                            <img src="images/pug-ai-logo.svg" alt="" class="dash-logo">
+                            <img src="https://arijit-webskitters.github.io/pug-ai/images/pug-ai-logo.svg" alt="" class="dash-logo">
                         </div>
                         <div class="dash-top-right">
                             <div class="dash-setting-wpr">
-                                <img src="images/gear-icon.svg" alt="" class="dash-setting">
+                                <img src="https://arijit-webskitters.github.io/pug-ai/images/gear-icon.svg" alt="" class="dash-setting">
                             </div>
                             <div class="dash-ttl-btn-wpr">
-                                <img src="images/tutorial-btn.svg" alt="" class="dash-ttl-btn">
+                                <img src="https://arijit-webskitters.github.io/pug-ai/images/tutorial-btn.svg" alt="" class="dash-ttl-btn">
                             </div>
                             <div class="dash-user-wpr">
-                                <img src="images/user-icon.svg" alt="" class="dash-user">
+                                <img src="https://arijit-webskitters.github.io/pug-ai/images/user-icon.svg" alt="" class="dash-user">
                             </div>
                         </div>
                     </div>
                     <div class="dashboard-animation-btm-body">
-                        <img src="images/screen1-panel-bg.svg" alt="" class="screen1-form-bg">
+                        <img src="https://arijit-webskitters.github.io/pug-ai/images/screen1-panel-bg.svg" alt="" class="screen1-form-bg">
                         <div class="screen1-form-top-bar">
-                            <img src="images/top-bar-panel.svg" alt="" class="screen1-form-top-bar-img">
+                            <img src="https://arijit-webskitters.github.io/pug-ai/images/top-bar-panel.svg" alt="" class="screen1-form-top-bar-img">
                         </div>
                         <div class="screen1-form-right-bar">
-                            <img src="images/screen1-right-sidebar.svg" alt="" class="screen1-form-right-bar-img">
+                            <img src="https://arijit-webskitters.github.io/pug-ai/images/screen1-right-sidebar.svg" alt="" class="screen1-form-right-bar-img">
                             <div class="screen1-form-right-bar-cntnt">
                                 <div class="screen1-form-right-bar-cntnt-in">
                                     <div class="starfld-btn-wpr">
-                                        <img src="images/star-fld-btn.svg" alt="" class="starfld-btn-img">
+                                        <img src="https://arijit-webskitters.github.io/pug-ai/images/star-fld-btn.svg" alt="" class="starfld-btn-img">
                                     </div>
                                     <div class="starfld-txt-wpr">
-                                        <img src="images/star-fld-txt.svg" alt="" class="starfld-txt-img">
+                                        <img src="https://arijit-webskitters.github.io/pug-ai/images/star-fld-txt.svg" alt="" class="starfld-txt-img">
                                     </div>
                                 </div>
                             </div>
@@ -46,30 +46,30 @@ jQuery(document).ready(function ($) {
                         <div class="screen1-form-wpr">
                             <div class="screen1-form-wpr-in">
                                 <div class="name-fld-wpr anim-fld1">
-                                    <img src="images/name-field.svg" alt="" class="name-fld-img">
+                                    <img src="https://arijit-webskitters.github.io/pug-ai/images/name-field.svg" alt="" class="name-fld-img">
                                 </div>
                                 <div class="type-fld-wpr anim-fld1">
-                                    <img src="images/type-field.svg" alt="" class="type-fld-img">
+                                    <img src="https://arijit-webskitters.github.io/pug-ai/images/type-field.svg" alt="" class="type-fld-img">
                                 </div>
                                 <div class="value-txt-wpr anim-fld1">
-                                    <img src="images/value-txt.svg" alt="" class="value-txt-img">
+                                    <img src="https://arijit-webskitters.github.io/pug-ai/images/value-txt.svg" alt="" class="value-txt-img">
                                 </div>
                                 <div class="value-fld-wpr anim-fld1">
-                                    <img src="images/value-field.svg" alt="" class="value-fld-img">
+                                    <img src="https://arijit-webskitters.github.io/pug-ai/images/value-field.svg" alt="" class="value-fld-img">
                                 </div>
                                 <div class="lstng-optns-wpr">
                                     <div class="lstng-each-optn-div">
-                                        <img src="images/listing-option1.svg" alt="" class="lstng-optn-img">
+                                        <img src="https://arijit-webskitters.github.io/pug-ai/images/listing-option1.svg" alt="" class="lstng-optn-img">
                                     </div>
                                     <div class="lstng-each-optn-div">
-                                        <img src="images/listing-option1.svg" alt="" class="lstng-optn-img">
+                                        <img src="https://arijit-webskitters.github.io/pug-ai/images/listing-option1.svg" alt="" class="lstng-optn-img">
                                     </div>
                                     <div class="lstng-each-optn-div">
-                                        <img src="images/listing-option1.svg" alt="" class="lstng-optn-img">
+                                        <img src="https://arijit-webskitters.github.io/pug-ai/images/listing-option1.svg" alt="" class="lstng-optn-img">
                                     </div>
                                 </div>
                                 <div class="scrn1-video-wpr">
-                                    <img src="images/screen1-video.png" alt="" class="scrn1-video">
+                                    <img src="https://arijit-webskitters.github.io/pug-ai/images/screen1-video.png" alt="" class="scrn1-video">
                                 </div>
                             </div>
                         </div>
@@ -80,70 +80,70 @@ jQuery(document).ready(function ($) {
                 <div class="dashboard-animation-cover2">
                     <div class="dashboard-screen2-top-bar">
                         <div class="screen2-title-wpr">
-                            <img src="images/operations-title.svg" alt="" class="screen2-title-img">
+                            <img src="https://arijit-webskitters.github.io/pug-ai/images/operations-title.svg" alt="" class="screen2-title-img">
                         </div>
                         <div class="screen2-topbar-right">
                             <div class="platform-select1-wpr">
-                                <img src="images/platform-select.svg" alt="" class="platform-select1-img">
+                                <img src="https://arijit-webskitters.github.io/pug-ai/images/platform-select.svg" alt="" class="platform-select1-img">
                             </div>
                             <div class="platform-select2-wpr">
-                                <img src="images/platform-select.svg" alt="" class="platform-select2-img">
+                                <img src="https://arijit-webskitters.github.io/pug-ai/images/platform-select.svg" alt="" class="platform-select2-img">
                             </div>
                         </div>
                     </div>
                     <div class="dashboard-screen2-card-sec">
                         <div class="screen2-card-title-wpr">
-                            <img src="images/beginner-title-img.svg" alt="" class="screen2-card-title-img">
+                            <img src="https://arijit-webskitters.github.io/pug-ai/images/beginner-title-img.svg" alt="" class="screen2-card-title-img">
                         </div>
                         <div class="dashboard-screen2-card-row">
                             <div class="dashboard-screen2-card-col col-gap">
                                 <div class="dashboard-screen2-card">
                                     <div class="screen2-card-img-wpr">
-                                        <img src="images/screen-card1.svg" alt="" class="screen-card1">
+                                        <img src="https://arijit-webskitters.github.io/pug-ai/images/screen-card1.svg" alt="" class="screen-card1">
                                     </div>
                                     <div class="screen2-card-btn-wpr">
-                                        <img src="images/screen-card-btn1.svg" alt="" class="screen2-card-btn-img">
+                                        <img src="https://arijit-webskitters.github.io/pug-ai/images/screen-card-btn1.svg" alt="" class="screen2-card-btn-img">
                                     </div>
                                 </div>
                             </div>
                             <div class="dashboard-screen2-card-col col-gap">
                                 <div class="dashboard-screen2-card">
                                     <div class="screen2-card-img-wpr">
-                                        <img src="images/screen-card2.png" alt="" class="screen-card2">
+                                        <img src="https://arijit-webskitters.github.io/pug-ai/images/screen-card2.png" alt="" class="screen-card2">
                                     </div>
                                     <div class="screen2-card-btn-wpr">
-                                        <img src="images/screen-card-btn2.svg" alt="" class="screen2-card-btn-img">
+                                        <img src="https://arijit-webskitters.github.io/pug-ai/images/screen-card-btn2.svg" alt="" class="screen2-card-btn-img">
                                     </div>
                                 </div>
                             </div>
                             <div class="dashboard-screen2-card-col col-gap">
                                 <div class="dashboard-screen2-card">
                                     <div class="screen2-card-img-wpr">
-                                        <img src="images/screen-card3.svg" alt="" class="screen-card3">
+                                        <img src="https://arijit-webskitters.github.io/pug-ai/images/screen-card3.svg" alt="" class="screen-card3">
                                     </div>
                                     <div class="screen2-card-btn-wpr">
-                                        <img src="images/screen-card-btn3.svg" alt="" class="screen2-card-btn-img">
+                                        <img src="https://arijit-webskitters.github.io/pug-ai/images/screen-card-btn3.svg" alt="" class="screen2-card-btn-img">
                                     </div>
                                 </div>
                             </div>
                             <div class="dashboard-screen2-card-col">
                                 <div class="dashboard-screen2-card">
                                     <div class="screen2-card-img-wpr">
-                                        <img src="images/screen-card4.png" alt="" class="screen-card4">
+                                        <img src="https://arijit-webskitters.github.io/pug-ai/images/screen-card4.png" alt="" class="screen-card4">
                                     </div>
                                 </div>
                             </div>
                             <div class="dashboard-screen2-card-col">
                                 <div class="dashboard-screen2-card">
                                     <div class="screen2-card-img-wpr">
-                                        <img src="images/screen-card5.png" alt="" class="screen-card5">
+                                        <img src="https://arijit-webskitters.github.io/pug-ai/images/screen-card5.png" alt="" class="screen-card5">
                                     </div>
                                 </div>
                             </div>
                             <div class="dashboard-screen2-card-col">
                                 <div class="dashboard-screen2-card">
                                     <div class="screen2-card-img-wpr">
-                                        <img src="images/screen-card6.png" alt="" class="screen-card6">
+                                        <img src="https://arijit-webskitters.github.io/pug-ai/images/screen-card6.png" alt="" class="screen-card6">
                                     </div>
                                 </div>
                             </div>
@@ -157,57 +157,57 @@ jQuery(document).ready(function ($) {
                     <div class="dashboard-screen3-wpr">
                         <div class="screen3-user-dtls-wpr">
                             <div class="screen3-bg-img-wpr">
-                                <img src="images/screen3-bg-img.svg" alt="" class="screen3-bg-img">
+                                <img src="https://arijit-webskitters.github.io/pug-ai/images/screen3-bg-img.svg" alt="" class="screen3-bg-img">
                             </div>
                             <div class="screen3-user-dtls">
                                 <div class="user-img-wpr">
-                                    <img src="images/user-img.png" alt="" class="user-img">
+                                    <img src="https://arijit-webskitters.github.io/pug-ai/images/user-img.png" alt="" class="user-img">
                                 </div>
                                 <div class="user-name-wpr">
-                                    <img src="images/user-name-txt.svg" alt="" class="user-name-img">
+                                    <img src="https://arijit-webskitters.github.io/pug-ai/images/user-name-txt.svg" alt="" class="user-name-img">
                                 </div>
                                 <div class="wlcm-txt-wpr">
-                                    <img src="images/welcome-txt.svg" alt="" class="wlcm-txt-img">
+                                    <img src="https://arijit-webskitters.github.io/pug-ai/images/welcome-txt.svg" alt="" class="wlcm-txt-img">
                                 </div>
                                 <div class="user-dtls-fld-row">
                                     <div class="user-dtls-fld-col">
                                         <div class="user-dtls-fld-wpr">
-                                            <img src="images/first-name-img.svg" alt="" class="first-name-img">
+                                            <img src="https://arijit-webskitters.github.io/pug-ai/images/first-name-img.svg" alt="" class="first-name-img">
                                         </div>
                                     </div>
                                     <div class="user-dtls-fld-col">
                                         <div class="user-dtls-fld-wpr">
-                                            <img src="images/last-name-img.svg" alt="" class="last-name-img">
+                                            <img src="https://arijit-webskitters.github.io/pug-ai/images/last-name-img.svg" alt="" class="last-name-img">
                                         </div>
                                     </div>
                                     <div class="user-dtls-fld-col">
                                         <div class="user-dtls-fld-wpr">
-                                            <img src="images/platform-img.svg" alt="" class="platform-img">
+                                            <img src="https://arijit-webskitters.github.io/pug-ai/images/platform-img.svg" alt="" class="platform-img">
                                         </div>
                                     </div>
                                     <div class="user-dtls-fld-col">
                                         <div class="user-dtls-fld-wpr">
-                                            <img src="images/age-range-img.svg" alt="" class="age-range-img">
+                                            <img src="https://arijit-webskitters.github.io/pug-ai/images/age-range-img.svg" alt="" class="age-range-img">
                                         </div>
                                     </div>
                                     <div class="user-dtls-fld-col full">
                                         <div class="user-dtls-fld-wpr">
-                                            <img src="images/platform-fld-img.svg" alt="" class="platform-fld-img">
+                                            <img src="https://arijit-webskitters.github.io/pug-ai/images/platform-fld-img.svg" alt="" class="platform-fld-img">
                                         </div>
                                     </div>
                                     <div class="user-dtls-fld-col full">
                                         <div class="user-dtls-fld-wpr">
-                                            <img src="images/category-fld-img.svg" alt="" class="category-fld-img">
+                                            <img src="https://arijit-webskitters.github.io/pug-ai/images/category-fld-img.svg" alt="" class="category-fld-img">
                                         </div>
                                     </div>
                                     <div class="user-dtls-fld-col full">
                                         <div class="user-dtls-fld-wpr">
-                                            <img src="images/category-new-fld-img.svg" alt="" class="category-new-fld-img">
+                                            <img src="https://arijit-webskitters.github.io/pug-ai/images/category-new-fld-img.svg" alt="" class="category-new-fld-img">
                                         </div>
                                     </div>
                                     <div class="user-dtls-fld-col">
                                         <div class="user-dtls-fld-wpr">
-                                            <img src="images/country-field-img.svg" alt="" class="country-field-img">
+                                            <img src="https://arijit-webskitters.github.io/pug-ai/images/country-field-img.svg" alt="" class="country-field-img">
                                         </div>
                                     </div>
                                 </div>
