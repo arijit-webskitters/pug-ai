@@ -3,6 +3,9 @@
     margin: 0 auto;
     position: relative;
 }
+.dashboard-animation-wpr-in * {
+    box-sizing: border-box;
+}
 
 .dashboard-animation-wpr-in img {
     width: 100%;
