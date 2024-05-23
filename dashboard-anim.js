@@ -61,10 +61,10 @@ jQuery(document).ready(function ($) {
                                         <img src="https://arijit-webskitters.github.io/pug-ai/images/listing-option1.svg" alt="" class="lstng-optn-img">
                                     </div>
                                     <div class="lstng-each-optn-div">
-                                        <img src="https://arijit-webskitters.github.io/pug-ai/images/listing-option1.svg" alt="" class="lstng-optn-img">
+                                        <img src="https://arijit-webskitters.github.io/pug-ai/images/listing-option2.svg" alt="" class="lstng-optn-img">
                                     </div>
-                                    <div class="lstng-each-optn-div">
-                                        <img src="https://arijit-webskitters.github.io/pug-ai/images/listing-option1.svg" alt="" class="lstng-optn-img">
+                                    <div class="lstng-each-optn-div last-child">
+                                        <img src="https://arijit-webskitters.github.io/pug-ai/images/listing-option3.svg" alt="" class="lstng-optn-img">
                                     </div>
                                 </div>
                                 <div class="scrn1-video-wpr">

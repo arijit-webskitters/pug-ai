@@ -157,6 +157,10 @@
     margin-bottom: 3%;
 }
 
+.lstng-each-optn-div.last-child {
+    margin-bottom: 0%;
+}
+
 .screen1-form-right-bar-cntnt {
     position: absolute;
     top: 0;
