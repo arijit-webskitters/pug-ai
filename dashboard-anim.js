@@ -3,8 +3,7 @@ jQuery(document).ready(function ($) {
 
     if($('#anim-div')){
         function addDiv() {
-            document.getElementById("anim-div").innerHTML = `
-        <div class="dashboard-animation-wpr">
+            document.getElementById("anim-div").innerHTML = `        <div class="dashboard-animation-wpr">
             <div class="dashboard-animation-wpr-in">
                 <img src="https://arijit-webskitters.github.io/pug-ai/images/first-bg.svg" alt="" class="first-screen-bg">
                 <!-- SCREEN 1 -->
@@ -38,7 +37,7 @@ jQuery(document).ready(function ($) {
                                         <img src="https://arijit-webskitters.github.io/pug-ai/images/star-fld-btn.svg" alt="" class="starfld-btn-img">
                                     </div>
                                     <div class="starfld-txt-wpr">
-                                        <img src="https://arijit-webskitters.github.io/pug-ai/images/star-fld-txt.svg" alt="" class="starfld-txt-img">
+                                        <img src="https://arijit-webskitters.github.io/pug-ai/images/star-fld-txt.png" alt="" class="starfld-txt-img">
                                     </div>
                                 </div>
                             </div>
@@ -52,10 +51,10 @@ jQuery(document).ready(function ($) {
                                     <img src="https://arijit-webskitters.github.io/pug-ai/images/type-field.svg" alt="" class="type-fld-img">
                                 </div>
                                 <div class="value-txt-wpr anim-fld1">
-                                    <img src="https://arijit-webskitters.github.io/pug-ai/images/value-txt.svg" alt="" class="value-txt-img">
+                                    <img src="https://arijit-webskitters.github.io/pug-ai/images/value-txt.png" alt="" class="value-txt-img">
                                 </div>
                                 <div class="value-fld-wpr anim-fld1">
-                                    <img src="https://arijit-webskitters.github.io/pug-ai/images/value-field.svg" alt="" class="value-fld-img">
+                                    <img src="https://arijit-webskitters.github.io/pug-ai/images/value-field.png" alt="" class="value-fld-img">
                                 </div>
                                 <div class="lstng-optns-wpr">
                                     <div class="lstng-each-optn-div">
@@ -75,7 +74,7 @@ jQuery(document).ready(function ($) {
                         </div>
                     </div>
                 </div>
-    
+
                 <!-- SCREEN 2 -->
                 <div class="dashboard-animation-cover2">
                     <div class="dashboard-screen2-top-bar">
@@ -93,7 +92,7 @@ jQuery(document).ready(function ($) {
                     </div>
                     <div class="dashboard-screen2-card-sec">
                         <div class="screen2-card-title-wpr">
-                            <img src="https://arijit-webskitters.github.io/pug-ai/images/beginner-title-img.svg" alt="" class="screen2-card-title-img">
+                            <img src="https://arijit-webskitters.github.io/pug-ai/images/beginner-title-img.png" alt="" class="screen2-card-title-img">
                         </div>
                         <div class="dashboard-screen2-card-row">
                             <div class="dashboard-screen2-card-col col-gap">
@@ -150,10 +149,10 @@ jQuery(document).ready(function ($) {
                         </div>
                     </div>
                 </div>
-    
+
                 <!-- SCREEN 3 -->
                 <div class="dashboard-animation-cover3">
-    
+
                     <div class="dashboard-screen3-wpr">
                         <div class="screen3-user-dtls-wpr">
                             <div class="screen3-bg-img-wpr">
@@ -167,7 +166,7 @@ jQuery(document).ready(function ($) {
                                     <img src="https://arijit-webskitters.github.io/pug-ai/images/user-name-txt.svg" alt="" class="user-name-img">
                                 </div>
                                 <div class="wlcm-txt-wpr">
-                                    <img src="https://arijit-webskitters.github.io/pug-ai/images/welcome-txt.svg" alt="" class="wlcm-txt-img">
+                                    <img src="https://arijit-webskitters.github.io/pug-ai/images/welcome-txt.png" alt="" class="wlcm-txt-img">
                                 </div>
                                 <div class="user-dtls-fld-row">
                                     <div class="user-dtls-fld-col">
@@ -187,27 +186,28 @@ jQuery(document).ready(function ($) {
                                     </div>
                                     <div class="user-dtls-fld-col">
                                         <div class="user-dtls-fld-wpr">
-                                            <img src="https://arijit-webskitters.github.io/pug-ai/images/age-range-img.svg" alt="" class="age-range-img">
+                                            <img src="https://arijit-webskitters.github.io/pug-ai/images/age-range-img.png" alt="" class="age-range-img">
                                         </div>
                                     </div>
                                     <div class="user-dtls-fld-col full">
                                         <div class="user-dtls-fld-wpr">
-                                            <img src="https://arijit-webskitters.github.io/pug-ai/images/platform-fld-img.svg" alt="" class="platform-fld-img">
+                                            <img src="https://arijit-webskitters.github.io/pug-ai/images/platform-fld-img.png" alt="" class="platform-fld-img">
                                         </div>
                                     </div>
                                     <div class="user-dtls-fld-col full">
                                         <div class="user-dtls-fld-wpr">
-                                            <img src="https://arijit-webskitters.github.io/pug-ai/images/category-fld-img.svg" alt="" class="category-fld-img">
+                                            <img src="https://arijit-webskitters.github.io/pug-ai/images/category-fld-img.png" alt="" class="category-fld-img">
                                         </div>
                                     </div>
                                     <div class="user-dtls-fld-col full">
                                         <div class="user-dtls-fld-wpr">
-                                            <img src="https://arijit-webskitters.github.io/pug-ai/images/category-new-fld-img.svg" alt="" class="category-new-fld-img">
+                                            <img src="https://arijit-webskitters.github.io/pug-ai/images/category-new-fld-img.png" alt=""
+                                                class="category-new-fld-img">
                                         </div>
                                     </div>
                                     <div class="user-dtls-fld-col">
                                         <div class="user-dtls-fld-wpr">
-                                            <img src="https://arijit-webskitters.github.io/pug-ai/images/country-field-img.svg" alt="" class="country-field-img">
+                                            <img src="https://arijit-webskitters.github.io/pug-ai/images/country-field-img.png" alt="" class="country-field-img">
                                         </div>
                                     </div>
                                 </div>
@@ -221,8 +221,6 @@ jQuery(document).ready(function ($) {
         addDiv();
     }
     if ($('.dashboard-animation-wpr').length) {
-
-
         let dshbrdAnimWpr = document.querySelector('.dashboard-animation-wpr'),
             screen1 = dshbrdAnimWpr.querySelector('.dashboard-animation-cover1'),
             topbarS1 = screen1.querySelector('.dashboard-animation-top-bar'),
@@ -251,32 +249,32 @@ jQuery(document).ready(function ($) {
             userImgS3 = screen3.querySelector('.user-img-wpr'),
             userNameS3 = screen3.querySelector('.user-name-wpr'),
             wlcmTxtS3 = screen3.querySelector('.wlcm-txt-wpr'),
-            userFldsS2 = screen3.querySelectorAll('.user-dtls-fld-wpr')
+            userFldsS2 = screen3.querySelectorAll('.user-dtls-fld-wpr');
 
         // TL Declare
         let dshBrdAnimTl = gsap.timeline({ repeat: -1, defaults: { duration: 0.4, ease: "none", } });
 
         // SCREEN 1 GSAP SET
-        gsap.set([topbarS1, logoS1, topbarRightElemS1, frameBgS1, frameTopBarS1, frameAnimFldsS1, frameLstngPntsS1, frameVideoS1, frameSideBarS1, SideBarBtnS1, SideBartxtS1], { opacity: 0, })
-        gsap.set([logoS1], { x: -20 })
-        gsap.set([frameAnimFldsS1, SideBartxtS1], { y: 20 })
-        gsap.set([topbarRightElemS1, frameLstngPntsS1], { x: 35 })
-        gsap.set([frameBgS1, frameTopBarS1, frameVideoS1], { y: 50, })
-        gsap.set([frameSideBarS1], { xPercent: 100 })
-        gsap.set([SideBarBtnS1], { scale: 0 })
+        gsap.set([topbarS1], { opacity: 0, })
+        gsap.set([logoS1], { x: -20, opacity: 0, })
+        gsap.set([frameAnimFldsS1, SideBartxtS1], { y: 20, opacity: 0, })
+        gsap.set([topbarRightElemS1, frameLstngPntsS1], { x: 35, opacity: 0, })
+        gsap.set([frameBgS1, frameTopBarS1, frameVideoS1], { y: 50, opacity: 0, })
+        gsap.set([frameSideBarS1], { xPercent: 100, opacity: 0, })
+        gsap.set([SideBarBtnS1], { scale: 0, opacity: 0, })
 
         // SCREEN 2 GSAP SET
-        gsap.set([topBarLogoS2, topBarRightElemsS2, cardTitleS2, cntntCardsS2], { opacity: 0, })
-        gsap.set([topBarLogoS2], { x: -30 })
-        gsap.set([topBarRightElemsS2, cardTitleS2], { y: 20 })
-        gsap.set([cntntCardsS2], { y: 30 })
+        // gsap.set([topBarLogoS2, topBarRightElemsS2, cardTitleS2, cntntCardsS2], { opacity: 0, })
+        gsap.set([topBarLogoS2], { x: -30, opacity: 0, })
+        gsap.set([topBarRightElemsS2, cardTitleS2], { y: 20, opacity: 0, })
+        gsap.set([cntntCardsS2], { y: 30, opacity: 0, })
 
 
         // SCREEN 3 GSAP SET
-        gsap.set([bgFrameS3, userImgS3, userNameS3, wlcmTxtS3, userFldsS2], { opacity: 0, })
-        gsap.set([bgFrameS3], { y: 50 })
-        gsap.set([userImgS3], { scale: 0 })
-        gsap.set([userNameS3, wlcmTxtS3, userFldsS2], { y: 20 })
+        // gsap.set([bgFrameS3, userImgS3, userNameS3, wlcmTxtS3, userFldsS2], { opacity: 0, })
+        gsap.set([bgFrameS3], { y: 50, opacity: 0, })
+        gsap.set([userImgS3], { scale: 0, opacity: 0, })
+        gsap.set([userNameS3, wlcmTxtS3, userFldsS2], { y: 20, opacity: 0, })
 
 
         // SCREEN 1 ANIMATION TL
@@ -309,6 +307,7 @@ jQuery(document).ready(function ($) {
             .to(userFldsS2, { opacity: 1, y: 0, stagger: 0.25, }, "-=0.3")
             .to(bgFrameS3, { duration: 1, opacity: 1, })
             .to(screen2, { opacity: 0, })
+            dshBrdAnimTl.pause();
 
 
         ScrollTrigger.create({
